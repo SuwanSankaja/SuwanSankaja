@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/ec4c73f7-2a59-491c-b17e-466bb29e39ad)](https://suwansankaja.com)
+[![MasterHead](https://github.com/SuwanSankaja/Portfolio/blob/main/assets/img/hero-bg.gif)](https://suwansankaja.com)
 <h1 align="center">Hi 👋, I'm Suwan Sankaja</h1>
 
 <h3 align="center">I am a Passionate Computer Science & Engineering Undergraduate from Sri Lanka</h3>
