@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/suwansankaja" target="blank"><img src="https://img.shields.io/twitter/follow/suwansankaja?logo=twitter&style=for-the-badge" alt="suwansankaja" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://suwan.me/](https://suwan.me/)
+- 👨‍💻 All of my projects are available at [suwansankaja.com](https://suwansankaja.com)
 
 - 📫 How to reach me **suwan.sankaja@gmail.com**
 
-- 📄 Know about my experiences [https://suwan.me/](https://suwan.me/)
+- 📄 Know about my experiences [suwansankaja.com](https://suwansankaja.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
