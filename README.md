@@ -1,8 +1,8 @@
-[![MasterHead](https://github.com/SuwanSankaja/Workout_Buddy/blob/main/frontend/display_assets/hero-bg.gif)](https://suwansankaja.com)
+[![MasterHead](https://filedn.eu/lVNP1DcGQUE5OPMMHbPaQeb/Github%20Readme/fun_typing.gif)](https://suwansankaja.com)
 <h1 align="center">Hi 👋, I'm Suwan Sankaja</h1>
 
 <h3 align="center">I am a Passionate Computer Science & Engineering Undergraduate from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF2YmRhcXd5dXZoZDRmNjJzOXphdTFkZmg1aml3b2wzdTBiMzlwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://filedn.eu/lVNP1DcGQUE5OPMMHbPaQeb/Github%20Readme/typing.gif">
 
 
 <p align="left"> <a href="https://twitter.com/suwansankaja" target="blank"><img src="https://img.shields.io/twitter/follow/suwansankaja?logo=twitter&style=for-the-badge" alt="suwansankaja" /></a> </p>
