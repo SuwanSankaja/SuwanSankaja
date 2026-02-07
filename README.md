@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://filedn.eu/lVNP1DcGQUE5OPMMHbPaQeb/Github%20Readme/fun_typing.gif" alt="Header Banner" />
+  <img src="https://filedn.eu/lKBQ3k74oxYj0kgKuxh2wfS/Github%20Readme/fun_typing.gif" alt="Header Banner" />
 </div>
 
 <!-- Animated typing effect -->
