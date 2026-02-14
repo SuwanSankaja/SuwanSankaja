@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Suwan%20Sankaja&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Mobile%20App%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Animated typing effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%91%8B+Hey+there!+I'm+Suwan+Sankaja;%F0%9F%8E%93+CS+%26+Engineering+Student+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;%F0%9F%9A%80+Building+cool+stuff+with+code!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%91%8B+Hey+there!+I'm+Suwan+Sankaja;%F0%9F%9A%80+Data+Engineer+%26+AI%2FML+Enthusiast;%F0%9F%87%B1%F0%9F%87%B0+Bitcoin+Enthusiast+from+Sri+Lanka!" alt="Typing SVG" />
 
 <br/>
 
@@ -33,15 +33,15 @@ const suwan = {
     pronouns: "He" | "Him",
     location: "Sri Lanka 🇱🇰",
     education: "BSc (Hons) Computer Science & Engineering",
-    roles: ["Full Stack Developer", "Mobile App Developer", "AI/ML Enthusiast"],
-    currentFocus: ["React Native", "Cloud Technologies", "LLMs & RAG"],
-    askMeAbout: ["Web Dev", "Mobile Apps", "AI/ML", "Trading Bots", "System Design"],
+    roles: ["Data Engineer", "AI/ML Enthusiast", "Full Stack Developer"],
+    currentFocus: ["Data Engineering", "Cloud Technologies", "LLMs & RAG"],
+    askMeAbout: ["Data Engineering", "AI/ML", "Web Dev", "System Design"],
     funFact: "I debug with console.log() and I'm proud of it! 😄",
     portfolio: "https://suwansankaja.com"
 };
 ```
 
-- 🎓 **CS & Engineering** student passionate about building impactful software
+- 🎓 **CS & Engineering** graduate passionate about building impactful software
 - 🔭 Currently working on **AI-powered applications** and **full-stack systems**
 - 🌱 Exploring **LLMs, RAG pipelines**, and **cloud-native architectures**
 - 🤖 Built an **automated Bitcoin trading bot** on AWS Lambda
